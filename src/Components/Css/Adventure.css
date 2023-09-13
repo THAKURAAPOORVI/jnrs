@@ -1,0 +1,9 @@
+.adventure{
+    padding: 105px;
+   }
+
+@media only screen and (max-width: 600px) {
+   .adventure{
+    padding: 25px;
+   }
+}

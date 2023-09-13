@@ -1,0 +1,17 @@
+.img-responsive{
+    display: block;
+    height: auto;
+    max-width: 100%;
+	  margin:0 auto;
+}
+.destni2{
+    padding: 107px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .destni2{
+        padding: 30px !important;
+    }
+
+}
